@@ -1,4 +1,4 @@
-# Vsevolod Silaev — C++ Developer
+# Vsevolod Silaev — Developer
 
 📍 Moscow, Russia | 📧 [vs.silaev@yandex.ru](mailto:vs.silaev@yandex.ru)  
 🔗 [Telegram](https://t.me/vs_silaev) | 🔗 [GitHub](https://github.com/Xpos587)
@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm Vsevolod, a **C++ developer** and a student at **NUST MISIS University**, majoring in Applied Mathematics. I'm passionate about software development, algorithms, and exploring the power of modern programming technologies.
+Hello! I'm Vsevolod, a ** developer** and a student at **NUST MISIS University**, majoring in Applied Mathematics. I'm passionate about software development, algorithms, and exploring the power of modern programming technologies.
 
 I'm always open to new connections, collaborations, and exciting projects!
 
@@ -26,6 +26,7 @@ I'm always open to new connections, collaborations, and exciting projects!
 - CMake / QMake
 - Arduino IDE
 - Django (basic knowledge)
+- Claude
 
 ### Systems & Platforms
 - Linux (Ubuntu, Arch, RedOS)
